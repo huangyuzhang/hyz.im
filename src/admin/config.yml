@@ -14,7 +14,7 @@ backend:
   name: github
   repo: huangyuzhang/hyz.im
   branch: main
-  base_url: https://hyz.im
+  # base_url: https://hyz.im
 
 
 # uncomment to use local backend for testing (/admin)
