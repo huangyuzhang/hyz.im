@@ -1,15 +1,11 @@
 navItems:
-  - text: Home
+  - text: 首页
     url: /
-  - text: Posts
+  - text: 文章
     url: /post/
-  - text: Topics
+  - text: 话题
     url: /tag/
-  - text: Authors
-    url: /author/
-  - text: Archives
-    url: /archives/
-  - text: About
+  - text: 关于我
     url: /about/
 footerItems:
   - text: View on Github
