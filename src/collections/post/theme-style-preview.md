@@ -5,7 +5,6 @@ date: 2021-03-17
 authors:
   - fizzy
 tags:
-  - data
   - doc
 image: /static/img/minion.png
 isFeatured: true

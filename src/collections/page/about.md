@@ -1,17 +1,25 @@
 ---
-title: About
+title: 关于我
 path: about
-date: 2021-03-11
+date: 2023-01-10
 image: https://i.loli.net/2020/11/19/ZUEzPn3c15tMQDb.jpg
 layout: single-page
 ---
-Hello there!
 
-My name is Yuzhang Huang. You can call me Simon. I am a senior BI & Strategic Anlalyst at an Internet company located in Hangzhou, China.
+你好，我是Simon，居住在杭州。
 
-This blog mainly contains some of my notes and meaningful contents.
+在目前的工作上，我是一名BI与策略分析师，核心职能是通过数据相关的工具和研究为企业决策提供帮助。
 
-You can also find me on:
+这个博客始于2023年初。如果你看过我在这里的第一篇博客[重拾旧好](/post/重拾旧好/)，你大概就会知道我在写博客这件事上的执着。
 
-* [𝖦𝗂𝗍𝗁𝗎𝖻](https://github.com/huangyuzhang/)
-* [51热带鱼](https://www.51redaiyu.com/)
+建立这个博客的初衷，和之前的有所不同，这次主要是为了能与未来的自己沟通，以一种更加正式的形式，让未来的自己看到自己更多思想层面的变化与成长。
+
+我虽然很喜欢编程、设计这些具有创造性的东西，但因为三分钟热度，所以在各方面也都只是略知一二。
+
+和大部分同龄人一样，我也喜欢玩游戏，从小时候的单机游戏，到后来的网络游戏，对战游戏，我都玩过不少。我最钟爱的，还是生存和经营类的沙盒游戏。
+
+我有一台3D打印机，型号是：Creality Ender 3V2。我认为它是入门级3D打印机里性价比很高的一款，如果有精力还可以自己折腾。我经常用它来打印一些家里需要的小部件，也有一些其他原型用途。
+
+由于从小的培养，我一直都非常喜欢养鱼（以及其他有趣的动物），我甚至还为养鱼建立过一个专题博客[51热带鱼](https://www.51redaiyu.com/)，从水生生物物种介绍，器材设备选购和DIY，到水族知识的总结与分享，都有涉及。但是在2018年我停止了更新，原因是内容被诸如微信公众号、搜狐号等各类号直接复制用作他们的伪原创。
+
+最后，你所看到的这个网站是基于 [Jamstack](https://jamstack.org/) 的理念创建的，我把它开源在了 Github 上：[Fizzy-Jam](http://github.com/huangyuzhang/Fizzy-Jam)，如果感兴趣你也可以零成本搭建一个，欢迎与我交流。

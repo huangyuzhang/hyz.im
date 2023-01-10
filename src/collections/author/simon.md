@@ -1,6 +1,6 @@
 ---
-name: Yuzhang Huang
-slug: huangyuzhang
+name: Simon
+slug: simon
 avatar: /static/img/simon.jpeg
 bgImage: ""
 bio: Keep it simple
