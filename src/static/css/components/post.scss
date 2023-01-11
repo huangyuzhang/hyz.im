@@ -1,6 +1,8 @@
-/* ====================== post ====================== 2019.04.13 */
+// Post page
 
-/* remove box border-radius in mobile device 2019.04.11 */
+// import _variable
+@use 'variables' as var;
+
 @media screen and (max-width: 768px){
 	.single-article .box {border-radius: 0;}
 }
@@ -51,7 +53,7 @@
 
 /* post-content 2019.04.13 */
 .post-wrap .post-content a {
-	color:#000;
+	color:var.$purple-dark;
 	word-break: break-word;
 	border-bottom:1px dashed;
 	transition: all .25s;
