@@ -22,7 +22,7 @@ local_backend: true
 media_folder: "src/static/img"
 public_folder: "/static/img"
 
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 display_url: /
 
