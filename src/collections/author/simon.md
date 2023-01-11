@@ -1,5 +1,5 @@
 ---
-name: Simon
+name: Simon Huang
 slug: simon
 avatar: /static/img/simon.jpeg
 bgImage: ""

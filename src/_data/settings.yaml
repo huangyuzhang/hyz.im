@@ -12,7 +12,7 @@ seo:
   keywords: jamstack, Hobby
 appearance:
   mainColor: "#538fcd"
-  linkHoverColor: "#538fcd"
+  linkHoverColor: "#c668b9"
 component:
   authorBox: true
   codeLineNumbers: true
