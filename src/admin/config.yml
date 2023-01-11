@@ -86,7 +86,7 @@ collections:
         name: "date"
         widget: "datetime"
         # default: "" # comment it to get the current datetime
-        format: "YYYY-MM-DD" # Used in front-end and readableDate function
+        format: "YYYY年MM月DD日" # Used in front-end and readableDate function
         date_format: "YYYY-MM-DD" # e.g. 2021.12.24
         time_format: false # e.g. "HH:mm" -> 21:07
         picker_utc: false
@@ -145,7 +145,7 @@ collections:
         name: "date"
         widget: "datetime"
         # default: "" # comment it to get the current datetime
-        format: "YYYY-MM-DD" # Used in front-end and readableDate function
+        format: "YYYY年MM月DD日" # Used in front-end and readableDate function
         date_format: "YYYY-MM-DD" # e.g. 2021.12.24
         time_format: false # e.g. "HH:mm" -> 21:07
         picker_utc: false
