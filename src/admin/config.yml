@@ -78,7 +78,7 @@ collections:
       - label: "Slug"
         name: "slug"
         widget: "string"
-        pattern: ["^[a-z0-9]+(?:[._-][a-z0-9]+)*$","A slug can have no spaces or special characters"]
+        pattern: ["^[\u4e00-\u9fa5_a-z0-9]+(?:[._-][\u4e00-\u9fa5_a-z0-9]+)*$","A slug can have no spaces or special characters"]
         hint: >-
           The post URL (do not include folder or file extension, change slug may cause link break!)
       # https://www.netlifycms.org/docs/widgets/#datetime
@@ -138,7 +138,7 @@ collections:
       - label: "Path"
         name: "path"
         widget: "string"
-        pattern: ["^[a-z0-9]+(?:[._-][a-z0-9]+)*$","A slug can have no spaces or special characters"]
+        pattern: ["^[\u4e00-\u9fa5_a-z0-9]+(?:[._-][\u4e00-\u9fa5_a-z0-9]+)*$","A slug can have no spaces or special characters"]
         hint: >-
           Used in permalink "/{{ path }}/ and navigation url, e.g.: "about".
       - label: "Date"
@@ -182,7 +182,7 @@ collections:
         name: "slug"
         widget: "string"
         required: true
-        pattern: ["^[a-z0-9]+(?:[._-][a-z0-9]+)*$","A slug can have no spaces or special characters"]
+        pattern: ["^[\u4e00-\u9fa5_a-z0-9]+(?:[._-][\u4e00-\u9fa5_a-z0-9]+)*$","A slug can have no spaces or special characters"]
         hint: >-
           Change slug requires manual modification on posts' tag list.
       - label: "SEO Title"
@@ -215,7 +215,7 @@ collections:
         name: "slug"
         widget: "string"
         required: true
-        pattern: ["^[a-z0-9]+(?:[._-][a-z0-9]+)*$","A slug can have no spaces or special characters"]
+        pattern: ["^[\u4e00-\u9fa5_a-z0-9]+(?:[._-][\u4e00-\u9fa5_a-z0-9]+)*$","A slug can have no spaces or special characters"]
         hint: >-
           The author URL (do not include folder or file extension)
       - { label: "Avatar", name: "avatar", widget: "image", hint: "Squared image recommended.", allow_multiple: false, required: false}
