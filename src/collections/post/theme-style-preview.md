@@ -135,9 +135,17 @@ function addTwoNumbers (num1, num2) {
 ## Toggle
 
 <details>
+
 <summary>Content Summary</summary> 
+
 This is the content.
+
 <pre>
 	pred content <strong>strong font</strong>。
-<pre>
+</pre>
+
+```
+this is a 
+code block
+```
 </details>
