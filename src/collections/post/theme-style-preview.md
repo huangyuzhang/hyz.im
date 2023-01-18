@@ -2,11 +2,6 @@
 title: Theme Style Preview
 slug: theme-style-preview
 date: 2021-03-17
-authors:
-  - fizzy
-tags:
-  - data
-  - doc
 image: /static/img/minion.png
 isFeatured: true
 description: Use this post to see all markdown render styles by this theme.
