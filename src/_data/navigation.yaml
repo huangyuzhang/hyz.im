@@ -1,11 +1,14 @@
 navItems:
   - text: 首页
     url: /
-  - text: 文章
-    url: /post/
+  # - text: 文章
+  #   url: /post/
   - text: 话题
     url: /tag/
-  - text: 关于我
+    # subs:
+    # - text: 思考
+    #   url: /tag/思考/
+  - text: 关于
     url: /about/
 footerItems:
   - text: View on Github
