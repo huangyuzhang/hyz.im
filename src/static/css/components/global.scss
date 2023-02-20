@@ -1,3 +1,4 @@
+// import _variables
 @use 'variables' as var;
 
 *,
@@ -51,7 +52,7 @@ a {
   text-decoration: none;
   transition: all 0.3s;
   &:hover {
-    color: var.$main-color;
+    color: var.$link-color-hover;
   }
 }
 body, div, a, p, ul, li, ol, table, tr, td {

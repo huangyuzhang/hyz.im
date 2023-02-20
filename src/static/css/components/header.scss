@@ -1,5 +1,6 @@
-/* ====================== header ====================== 2019.04.12 */
+// header
 
+// import _variables
 @use 'variables' as var;
 
 @media screen and (min-width:1024px){
@@ -128,7 +129,7 @@
 }
 
 a.navbar-item:hover,a.navbar-item:focus{
-  color:var.$main-color !important;
+  color: var.$link-color-hover !important;
 }
 
 .site-header {

@@ -3,6 +3,13 @@
 // import _variable
 @use 'variables' as var;
 
+<<<<<<< HEAD
+=======
+// import _variables
+@use 'variables' as var;
+
+/* remove box border-radius in mobile device 2019.04.11 */
+>>>>>>> upstream/main
 @media screen and (max-width: 768px){
 	.single-article .box {border-radius: 0;}
 }
@@ -60,7 +67,7 @@
 	transition: all .25s;
 }
 .post-wrap .post-content a:hover {
-	color:var.$main-color;
+	color:var.$link-color-hover;
 	border-bottom:1px solid;
 }
 .post-wrap .post-content a.ext-link:after {
