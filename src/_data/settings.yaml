@@ -1,17 +1,17 @@
 meta:
-  name: Fizzy
+  name: 见时随笔
   url: ""
-  description: 生活与思考
-  icon: /favicon.ico
-  footerInfo: 生活与思考
+  description: ""
+  icon: /static/img/tree.png
+  footerInfo: ""
 post:
   showFeatureImage: true
   featureText: 推荐
 seo:
-  title: Fizzy
+  title: 见时随笔
   keywords: jamstack, Hobby
 appearance:
-  mainColor: "#538fcd"
+  mainColor: "#52A147"
   linkHoverColor: "#c668b9"
 component:
   authorBox: true
