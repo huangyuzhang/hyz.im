@@ -1,18 +1,15 @@
 meta:
   name: 见时随笔
   url: ""
-  description: ""
+  description: 生活与思考
   icon: /static/img/tree.png
-  footerInfo: ""
+  footerInfo: 生活与思考
 post:
   showFeatureImage: true
   featureText: 推荐
 seo:
   title: 见时随笔
   keywords: jamstack, Hobby
-appearance:
-  mainColor: "#52A147"
-  linkHoverColor: "#c668b9"
 component:
   authorBox: true
   codeLineNumbers: true
