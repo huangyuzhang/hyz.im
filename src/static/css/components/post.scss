@@ -3,13 +3,7 @@
 // import _variable
 @use 'variables' as var;
 
-<<<<<<< HEAD
-=======
-// import _variables
-@use 'variables' as var;
-
 /* remove box border-radius in mobile device 2019.04.11 */
->>>>>>> upstream/main
 @media screen and (max-width: 768px){
 	.single-article .box {border-radius: 0;}
 }
