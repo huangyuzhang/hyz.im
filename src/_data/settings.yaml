@@ -1,5 +1,5 @@
 meta:
-  name: 见时随笔
+  name: 見時
   url: ""
   description: 生活与思考
   icon: /static/img/tree.png
@@ -9,7 +9,7 @@ post:
   featureText: 推荐
 seo:
   title: 见时随笔
-  keywords: jamstack, Hobby
+  keywords: 生活, 盆景, 绿植, DIY
 component:
   authorBox: true
   codeLineNumbers: true
