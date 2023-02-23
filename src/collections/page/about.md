@@ -2,7 +2,7 @@
 title: 关于我
 path: about
 date: 2023-01-10
-image: https://i.loli.net/2020/11/19/ZUEzPn3c15tMQDb.jpg
+image: https://s2.loli.net/2020/11/19/ZUEzPn3c15tMQDb.jpg
 layout: single-page
 ---
 
@@ -23,5 +23,7 @@ layout: single-page
 我有一台3D打印机，型号是：Creality Ender 3V2。我认为它是入门级3D打印机里性价比很高的一款，如果有精力还可以自己折腾。我经常用它来打印一些家里需要的小部件，也有一些其他原型用途。
 
 由于从小的培养，我一直都非常喜欢养鱼（以及其他有趣的动物），我甚至还为养鱼建立过一个专题博客[51热带鱼](https://www.51redaiyu.com/)，从水生生物物种介绍，器材设备选购和DIY，到水族知识的总结与分享，都有涉及。但是在2018年我停止了更新，原因是内容被诸如微信公众号、搜狐号等各类号直接复制用作他们的伪原创。
+
+从2021年年底开始，我迷上了种植盆栽，尤其是特别迷你的微型盆栽，于是在2022年年底搬家之后终于开始了比较发烧的绿植买买买之旅。
 
 最后，你所看到的这个网站是基于 [Jamstack](https://jamstack.org/) 的理念创建的，我把它开源在了 Github 上：[Fizzy-Jam](http://github.com/huangyuzhang/Fizzy-Jam)，如果感兴趣你也可以零成本搭建一个，欢迎与我交流。
