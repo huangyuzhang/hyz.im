@@ -2,7 +2,7 @@
 title: 关于我
 path: about
 date: 2023-01-10
-image: https://s2.loli.net/2020/11/19/ZUEzPn3c15tMQDb.jpg
+image: https://s2.loli.net/2023/02/23/WHtPEw5986F17rq.jpg
 layout: single-page
 ---
 
