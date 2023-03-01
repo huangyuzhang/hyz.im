@@ -53,15 +53,15 @@
   </head>
   <body class="has-background-light">
     
-    {% if header != false %}
+    {# {% if header != false %} #}
       {% include "../partials/header.njk" %}
-    {% endif %}
+    {# {% endif %} #}
 
     {{ content | safe }}
 
-    {% if footer != false %}
+    {# {% if footer != false %} #}
       {% include "../partials/footer.njk" %}
-    {% endif %}
+    {# {% endif %} #}
 
     <script src="/static/js/footer.js"></script>
     {# <script src="/static/js/alpine.js"></script> #}
