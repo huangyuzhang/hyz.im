@@ -1,6 +1,6 @@
 ---
 title: Theme Style Preview
-slug: theme-style-preview
+path: style
 date: 2021-03-17
 authors:
   - simon
@@ -9,6 +9,7 @@ isFeatured: true
 description: Use this post to see all markdown render styles by this theme.
   Organically grow the holistic world view of disruptive innovation via
   workplace diversity and empowerment.
+toc: true
 ---
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
@@ -110,6 +111,12 @@ function addTwoNumbers (num1, num2) {
 +  return num1 + num2
 }
 ```
+## Latex
+
+Use `$` and `$$` mark to define Latex equations:
+
+* `$ e = mc $` will be rendered as: $ e = mc $
+* `$$ c = \\pm\\sqrt{a^2 + b^2} $$` will be rendered as: $$ c = \\pm\\sqrt{a^2 + b^2} $$
 
 ## Tables
 

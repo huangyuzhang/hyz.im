@@ -10,6 +10,8 @@ navItems:
     #   url: /tag/思考/
   - text: 关于
     url: /about/
+  - text: 链接
+    url: /link/
 footerItems:
   - text: View on Github
     url: https://github.com/huangyuzhang/fizzy-jam/

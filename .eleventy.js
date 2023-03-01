@@ -65,8 +65,7 @@ module.exports = function (eleventyConfig) {
   // Katex Files (CSS use CDN)
   eleventyConfig.addPassthroughCopy({
     "./node_modules/katex/dist/katex.min.js": "./static/js/katex.min.js",
-    "./node_modules/katex/dist/contrib/auto-render.min.js":
-      "./static/js/auto-render.min.js",
+    "./node_modules/katex/dist/contrib/auto-render.min.js": "./static/js/auto-render.min.js",
   });
 
   // TOC Files (CSS use CDN)
