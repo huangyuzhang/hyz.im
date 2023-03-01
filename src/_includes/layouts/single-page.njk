@@ -1,5 +1,6 @@
 ---
 layout: section-main
+toc: false
 ---
 <article class="single-article">
     <div class="box is-paddingless is-shadowless is-full-mobile is-centered is-clipped">
@@ -17,7 +18,7 @@ layout: section-main
             <h1 class="title is-2 is-size-4-mobile is-montserrat">{{ title }}</h1>
 
             {# content #}
-            <div class="content post-content is-size-6-mobile is-georgia">{{ content | safe }}</div>
+            <div id="content" class="content post-content is-size-6-mobile is-georgia">{{ content | safe }}</div>
             <div class="spacing-1 is-hidden-mobile"></div>
         </section>
     </div>

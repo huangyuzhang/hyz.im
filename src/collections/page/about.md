@@ -4,6 +4,7 @@ path: about
 date: 2023-01-10
 image: https://s2.loli.net/2023/02/23/WHtPEw5986F17rq.jpg
 layout: single-page
+toc: true
 ---
 
 你好，我是Simon，居住在杭州。
@@ -29,3 +30,11 @@ layout: single-page
 🌳 从2021年年底开始，我迷上了种植盆栽，尤其是特别迷你的微型盆栽，之后便开始了发烧的绿植买买买之旅。
 
 最后，你所看到的这个网站是基于 [Jamstack](https://jamstack.org/) 的理念创建的，我把它开源在了 Github 上：[🥤 Fizzy-Jam](http://github.com/huangyuzhang/Fizzy-Jam)，如果感兴趣你也可以零成本搭建一个，欢迎与我交流。
+
+## 抓住我
+
+你可以通过这些方式抓住我，但记得告诉我你从哪里来，以及为啥来抓我：
+
+* GitHub：[https://github.com/huangyuzhang](https://github.com/huangyuzhang)
+* 邮件：huangyuzhang#88.com（将 # 替换为 @）
+* 微信：yulone
