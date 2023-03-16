@@ -10,3 +10,4 @@ yarn.lock
 .env
 .lazyimages.json
 src/collections/post/demo-post*
+src/collections/post/new*
