@@ -11,5 +11,6 @@ seo:
   title: 见时随笔
   keywords: 生活, 盆景, 绿植, DIY
 component:
+  navSearch: true
   authorBox: true
   codeLineNumbers: true

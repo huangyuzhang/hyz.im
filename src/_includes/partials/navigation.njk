@@ -32,12 +32,13 @@
 
 {% endif %}
 
-{# search button#}
-<div class="navbar-item" id="search-btn">
-  <i class="iconfont icon-search"></i>
-</div>
-
+{# navbar search #}
+{% if settings.component.navSearch %}
 <div class="fizzy-search">
+    <div class="navbar-item" id="search-btn">
+      <i class="iconfont icon-search"></i>
+    </div>
+
     {# id: search container #}
     <div class="field has-addons" style="display:none" id="search-container">
         {# id: search-form #}
@@ -54,3 +55,4 @@
     </div>
     {# <div id="search-results"></div> #}
 </div>
+{% endif %}
