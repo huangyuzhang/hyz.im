@@ -179,6 +179,28 @@ center {
 	margin-bottom: 1rem;
 }
 
+// footnote highlight
+.highlight {
+	animation: blink .5s linear 1;
+}
+@keyframes blink {
+	0% {
+		background-color: transparent;
+	}
+	25% {
+		background-color: var.$yellow-light;
+	}
+	50% {
+	  background-color: transparent;
+	}
+	75% {
+	  background-color: var.$yellow-light;
+	}
+	100% {
+	  background-color: transparent;
+	}
+  }
+
 // Overwrite Prismjs
 pre[class*="language-"].line-numbers {
 	padding-left: 2.8em !important;
@@ -420,7 +442,7 @@ table tr td:last-child {border-right: solid 1px #dbdbdb;}
 }
 .post-content tbody tr:nth-child(even){background-color: #f9f9f9;}
 .post-content table tr:hover{
-	background-color:rgba(66, 165, 245, 0.15);
+	background-color:var.$purple-lighter;
 }
 .post-content table td:first-child {
     background-size: 20px 100%;

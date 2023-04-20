@@ -5,7 +5,7 @@ date: 2023-01-10
 image: https://hyz.hex.im/2023/hello.jpg
 layout: single-page
 toc: true
-comment: true
+comments: true
 ---
 
 你好，我是Simon，居住在杭州。
