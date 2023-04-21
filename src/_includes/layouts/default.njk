@@ -76,7 +76,7 @@
           tocEl: 'toc',
           linkClass: 'toc-item',
           linkActiveClass: 'current',
-          selector: ['h2', 'h3'],
+          selector: ["h2:not(blockquote h2)", "h3:not(blockquote h3)"],
           supplyTop: 104,
           comments: {{ comments }},
           commentsText: "评论",
