@@ -4,7 +4,7 @@ slug: fizzy-jam
 date: 2023-04-22
 authors:
   - simon
-image: null
+image: /static/img/fizzy-bg.png
 toc: true
 eleventyExcludeFromCollections: false
 tags:
