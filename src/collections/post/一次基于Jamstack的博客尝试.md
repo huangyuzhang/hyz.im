@@ -1,16 +1,16 @@
 ---
 title: Fizzy-Jam：一次基于 Jamstack 的博客尝试
-slug: 一次基于Jamstack的博客尝试
+slug: fizzy-jam
 date: 2023-04-22
-image: 
 authors:
   - simon
-tags:
-  - 爱好
-description: 关于这个博客系统的设计哲学以及技术栈详解，终于算是把坑填上了！
-isFeatured: false
+image: null
 toc: true
 eleventyExcludeFromCollections: false
+tags:
+  - 爱好
+isFeatured: false
+description: 关于这个博客系统的设计哲学以及技术栈详解，终于算是把坑填上了！
 ---
 
 ## 导读
@@ -59,6 +59,8 @@ eleventyExcludeFromCollections: false
 这边不对具体使用的技术进行更多的介绍了，感兴趣的朋友可以自己去看 Github 仓库 [^fizzy-jam:github]。
 
 ## 技术栈
+
+> 由于主题是对原有博客的迁移，因此没有对技术栈进行太多的改动，后面有时间可能会更新一些。
 
 * 静态页面生成器： 11ty
 * CSS框架：bulma
