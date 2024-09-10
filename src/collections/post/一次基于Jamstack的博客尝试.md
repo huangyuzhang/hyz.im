@@ -9,7 +9,7 @@ toc: true
 eleventyExcludeFromCollections: false
 tags:
   - 爱好
-isFeatured: false
+isFeatured: true
 description: 关于这个博客系统的设计哲学以及技术栈详解，终于算是把坑填上了！
 ---
 
