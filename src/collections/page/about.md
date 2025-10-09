@@ -44,5 +44,5 @@ comments: true
 你可以通过这些方式抓住我，但记得告诉我你从哪里来，以及为啥来抓我：
 
 * GitHub：<https://github.com/huangyuzhang>
-* 邮件：huangyuzhang#88.com（将 # 替换为 @）
+* 邮件：simon#spell.im（将 # 替换为 @）
 * 微信：yulone
