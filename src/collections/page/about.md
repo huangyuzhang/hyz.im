@@ -1,7 +1,7 @@
 ---
 title: 关于我
 path: about
-date: 2025年10月09日
+date: 2025-10-09
 image: https://hyz.hex.im/2023/hello.jpg
 layout: single-page
 toc: true
