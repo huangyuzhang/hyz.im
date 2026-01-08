@@ -16,3 +16,4 @@ toc: true
 * [tai](https://tai.im)：一个API抓取和信息聚合工具
 * [Spell加密货币收款工具](https://spell.im)：一个基于自托管钱包的加密货币（如USDT）收款工具
 * [SpellShop加密货币店铺系统](https://shop.spell.im)：一个可以售卖任何商品/服务，然后用加密货币收款的店铺平台
+* [Fizzy](https://fizzy.cc)：一个基于 Svelte 的 web starter
